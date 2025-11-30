@@ -1,2 +1,2 @@
 # DuAF
-The current work tasks are quite busy, and we will prioritize completing the code sorting and optimization as soon as possible, striving to present open source content in a more complete state. We will continue to promote open source code work in December. Thank you sincerely for your recognition and understanding of us all along!
+Despite the current tight work schedule, we will continue to optimize and improve open source content, striving to present higher quality code and documentation. We are actively promoting the follow-up promotion plan of the open source project and will release updates as soon as possible. Sincerely thank you for your trust, support, and patient understanding all along!
